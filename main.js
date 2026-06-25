@@ -865,7 +865,7 @@ function renderHome() {
   </div>
 
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">Solo AI Architect Academy</div>
     <p>The Ultimate Zero-to-Principal AI Engineering Master Curriculum</p>
     <p style="margin-top:8px">Built for engineers who refuse to be average.</p>
   </footer>`;
@@ -917,7 +917,7 @@ function renderPhasePage(id) {
   </div>
 
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">solo AI Architect Academy</div>
     <p>Phase ${p.id} of 14 · ${p.tag}</p>
   </footer>`;
 }
@@ -962,7 +962,7 @@ function renderProjectsPage(id) {
   </div>
 
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">Solo AI Architect Academy</div>
     <p>Phase ${p.id} Projects · Build. Deploy. Document.</p>
   </footer>`;
 }
@@ -1012,7 +1012,7 @@ function renderTimelinePage() {
   </div>
 
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">Solo AI Architect Academy</div>
     <p>40 Months · 5 Milestones · 14 Phases · Principal Engineer</p>
   </footer>`;
 }
@@ -1053,7 +1053,7 @@ function renderStrategyPage() {
   </div>
 
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">Solo AI Architect Academy</div>
     <p>Strategy without execution is hallucination.</p>
   </footer>`;
 }
@@ -1071,7 +1071,7 @@ function renderContactPage() {
   </div>
   ${contactFormHTML()}
   <footer class="footer">
-    <div class="footer-brand">AI Architect Academy</div>
+    <div class="footer-brand">Solo AI Architect Academy</div>
     <p>We respond within 24 hours.</p>
   </footer>`;
 }
