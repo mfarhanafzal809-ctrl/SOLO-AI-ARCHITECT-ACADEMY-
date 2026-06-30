@@ -21,7 +21,7 @@ const PHASES = [
           '<strong>Matrix Operations & Spaces:</strong> Row-column matrix products, dot products, and multi-dimensional space transformations.',
           '<strong>Eigenvalues & Eigenvectors:</strong> Extracting non-deforming directional vectors to capture maximum spatial variance — the foundation of PCA and dimensionality reduction.'
         ],
-        courseUrl:'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab',
+        courseUrl:'www.youtube.com://playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab',
         courseName:'3Blue1Brown: Essence of Linear Algebra'
       },
       {
